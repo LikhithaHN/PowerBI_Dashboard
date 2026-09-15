@@ -14,8 +14,9 @@ interactive slicers and drillthrough functionality.
 
 ---
 
-## 📄 View Dashboard PDF
+## 📄 View Dashboard PNG / ShopNestReport PDF
 [Click here to view the dashboard](dashboard_overview.png.png)
+[Click here to view the dashboard](ShopNestReport.pdf.pdf)
 
 ---
 
